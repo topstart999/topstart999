@@ -19,27 +19,40 @@
 - 🎯 Specialized in **Web Development** (frontend + backend)  
 - 🌱 Currently learning **Cloud, TypeScript patterns, and AI-assisted workflows**  
 - 💡 Passionate about **scalable apps, DevOps automation, and open-source collaboration**  
-
 ---
 
 ## 🛠 Tech Stack  
 
-<img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" align="right" width="200"/>
+<img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" align="right" width="220"/>
 
-**Languages**  
-`JavaScript` `TypeScript` `Python` `Go` `Java`  
+### 🌐 Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=fff&style=for-the-badge)
 
-**Frontend**  
-`React` `Next.js` `TailwindCSS`  
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 
-**Backend**  
-`Node.js` `Express` `GraphQL` `REST APIs`  
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff&style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge)
 
-**Databases**  
-`MySQL` `PostgreSQL` `MongoDB`  
+### 🗄 Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 
-**Cloud & DevOps**  
-`AWS` `Docker` `GitHub Actions` `Linux`  
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=fff&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 
 ---
 
