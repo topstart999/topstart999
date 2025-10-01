@@ -1,9 +1,19 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 
 <div align="center">
-  <a href="https://egirl.ing/">
-   <img src="https://lanyard.kyrie25.dev/api/202740603790819328?imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&showBanner=animated&bannerFilter=blur(2px)%20brightness(0.8)&waveColor=transparent&gradient=7E37F9-B48EF7-E568C4&waveSpotifyColor=transparent&borderRadius=20px&hideStatus=true" />
-  </a>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+  <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWh6dHB5ZmQ1YXV3d3hlODI3OTUzZHFla3c3aHRmcGVqZ2l0d2lnNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Hero GIF"/>
+</p>
+
   <br><br>
   <p><i>🚀 Exploring code, building experiences, and shaping the future of the web</i></p>
 </div>
